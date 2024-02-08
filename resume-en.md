@@ -4,7 +4,13 @@ Mönchengladbach Germany 1) +49 0162 5638824, 2) ati.ozgur@gmail.com  3) atilla.
 
 ## Summary of Qualifications
 
-I consider myself: polyglot programmer, database developer,  build engineer and researcher. Although I graduated in 2003 from Electrical Engineering, I started programming in 1991. I have 20  years of professional experience, with 6 years of Project Management and Team Leading experience and 6 years of Database Administration. I worked with different web application development platforms and Database Systems. I have numerous Microsoft certifications (MCPD,MCSD,MCT). I am certified in Oracle (OCA 11g) and SQL Server (2000-2008) Databases. I have worked on machine learning and artificial intelligence for more than 16 years due to my PhD+Postdoc. I hold a PHD degree in Electrical Engineering. My thesis was about machine learning, optimization and intrusion detection systems. I currently work as a scientific developer focused on machine learning and optimization for steel production systems.
+I consider myself: polyglot programmer, database developer,  build engineer and researcher. Although I graduated in 2003 from Electrical Engineering, I started programming in 1991. 
+I have 20  years of professional experience, with 6 years of Project Management and Team Leading experience and 6 years of Database Administration. I worked with different web application development platforms and Database Systems. 
+I have numerous Microsoft certifications (MCPD,MCSD,MCT). 
+I am certified in Oracle (OCA 11g) and SQL Server (2000-2008) Databases. I have worked on machine learning and artificial intelligence for more than 16 years due to my PhD+Postdoc. 
+I hold a PHD degree in Electrical Engineering. 
+My thesis was about machine learning, optimization and intrusion detection systems. 
+I currently work as a scientific developer focused on machine learning and optimization for steel production systems.
 
 ## Education
 
@@ -37,6 +43,7 @@ I consider myself: polyglot programmer, database developer,  build engineer and 
 
 
 ## Peer Reviewed Articles (SCI-E)
+
 1. Fatih Nar, Atilla Özgür and Ayşe Nurdan Saran. "Sparsity-Driven Change Detection in Multitemporal SAR Images," in IEEE Geoscience and Remote Sensing Letters,  2016.
 2. Fatih Nar, Osman Erman Okman, Atilla Özgür, Müjdat Çetin.  "Fast Target Detection in Radar Images using Rayleigh Mixtures and Summed Area Tables" in Digital Signal Processing, 2017
 3. Atilla Özgür, Hamit Erdem. “Feature selection and multiple classifier fusion using genetic algorithms in intrusion detection systems” in Journal of the Faculty of Engineering and Architecture of Gazi University,  2018.
@@ -50,7 +57,8 @@ I consider myself: polyglot programmer, database developer,  build engineer and 
 
 - See others in my [google scholar](https://scholar.google.com.tr/citations?user=Q9ll-kcAAAAJ&hl=en) and [Research Gate](https://www.researchgate.net/profile/Atilla_Oezguer) profiles.
 
-##Certifications - Exams (See Long Version for Complete History)
+## Certifications - Exams (See Long Version for Complete History)
+
 * OCA - Oracle Database 11g Administrator Certified Associate , 2010
 * Microsoft Certified Professional  Developer  , Asp.Net Developer 3.5
 * Microsoft Certified IT Professional  Database Developer , 2008, (Early Achiever, Beta Exam)
