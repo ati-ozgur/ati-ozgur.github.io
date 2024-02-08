@@ -2,3 +2,4 @@
 *.sublime-workspace
 _site*
 _site_lib*
+rendered*
