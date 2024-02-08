@@ -61,13 +61,13 @@ I consider myself: polyglot programmer, database developer,  build engineer and 
 * GRE Quantitative (2008) (800/800) Verbal (450/800)
 
 ## Courses I Taught in Universities:
+* [Programming in Python](https://github.com/ati-ozgur/course-python) (Jacobs University, in English, 5 semestres: 2019-2023
+* [Web Programming](https://github.com/ati-ozgur/course-web-programming) (Ankara Yıldırım Beyazıd University, in English 1 semestres: 2022)
+* [Programming Languages](https://github.com/ati-ozgur/course-programming-languages) (Ankara Yıldırım Beyazıd University, in English 1 semestres: 2022)
+* [Data Mining](https://github.com/ati-ozgur/course-data-mining) (Ankara Yıldırım Beyazıd University, in English 1 semestres: 2021)
+* [Programming in R](https://github.com/ati-ozgur/course-r-programming) (Jacobs University, in English, 3 semestres: 2019-2021
+* [Deep Learning and Neural Networks](https://github.com/ati-ozgur/course-nn-deep-learning) (Applied University Bremen, in English, 2 semestres:2019 and 2020)
 * Data Structures (Baskent University, in Turkish, 2 semestres: 2013 and 2014)
-* Programming in R (Jacobs University, in English, 3 semestres: 2019-2021
-* Programming in Python (Jacobs University, in English, 5 semestres: 2019-2023
-* Web Development (Ankara Yıldırım Beyazıd University, in English 1 semestres: 2022)
-* Programming Languages (Ankara Yıldırım Beyazıd University, in English 1 semestres: 2022)
-* Data Mining (Ankara Yıldırım Beyazıd University, in English 1 semestres: 2021)
-* Deep Learning and Neural Networks (Applied University Bremen, in English, 2 semestres:2019 and 2020)
 * Note: I have taught numerous courses when I was working as an IT Trainer and Senior Developer, mostly general programming, web programming, software management and database courses. 
 
 ## Online Presence
