@@ -1,11 +1,23 @@
 ---
-title: "Website Deneme"
+title: "Atilla Özgür Web"
 ---
 
-This is a Quarto website.
+## Courses
 
-To learn more about Quarto websites visit 
-<https://quarto.org/docs/websites>.
+## Kurslarım
 
+- [Programlama Temeller](kurs-programlama-temeller)
+
+
+## Previous posts
 
 - [FirstProgrammingLanguageJavaAndBlueJ](FirstProgrammingLanguageJavaAndBlueJ.md)
+
+
+
+## Not
+
+Bu web sitesi quarto kullanarak yapılmıştır.
+Daha fazla öğrenmek için [quarto web siteleri](https://quarto.org/docs/websites).
+
+
