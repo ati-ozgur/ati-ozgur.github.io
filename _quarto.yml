@@ -1,6 +1,7 @@
 project:
   type: website
-
+  output-dir: rendered
+  
 website:
   title: "Website"
   navbar:
@@ -16,4 +17,5 @@ format:
     toc: true
 
 
-
+execute:
+  freeze: auto
