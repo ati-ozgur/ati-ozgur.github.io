@@ -48,7 +48,7 @@ I consider myself: polyglot programmer, database developer,  build engineer and 
 1. Atilla Özgür, Hamit Erdem  Saldırı Tespit Sistemlerinde Kullanılan Kolay Erişilen Makine Öğrenme Algoritmalarının Karşılaştırılması Bilişim Teknolojileri Dergisi, 41-48, 2012
 2. Fatih Nar, Osman Erman Okman, Atilla Özgür, M Çetin, “RmSAT-CFAR: Fast and accurate target detection in radar images” in SoftwareX, 2017
 
-- See others in my google scholar and Research Gate profiles.
+- See others in my [google scholar](https://scholar.google.com.tr/citations?user=Q9ll-kcAAAAJ&hl=en) and [Research Gate](https://www.researchgate.net/profile/Atilla_Oezguer) profiles.
 
 ##Certifications - Exams (See Long Version for Complete History)
 * OCA - Oracle Database 11g Administrator Certified Associate , 2010
