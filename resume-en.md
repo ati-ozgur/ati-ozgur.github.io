@@ -69,6 +69,7 @@ I currently work as a scientific developer focused on machine learning and optim
 * GRE Quantitative (2008) (800/800) Verbal (450/800)
 
 ## Courses I Taught in Universities:
+
 * [Programming in Python](https://github.com/ati-ozgur/course-python) (Jacobs University, in English, 5 semestres: 2019-2023
 * [Web Programming](https://github.com/ati-ozgur/course-web-programming) (Ankara Yıldırım Beyazıd University, in English 1 semestres: 2022)
 * [Programming Languages](https://github.com/ati-ozgur/course-programming-languages) (Ankara Yıldırım Beyazıd University, in English 1 semestres: 2022)
