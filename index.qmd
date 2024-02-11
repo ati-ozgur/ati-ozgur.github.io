@@ -2,9 +2,12 @@
 title: "Atilla Özgür Web"
 ---
 
-## Courses
+## Courses English
 
-## Kurslarım
+- [Programming in python](course-python)
+
+
+## Kurslarım Türkçe 
 
 - [Programlama Temeller](kurs-programlama-temeller)
 
