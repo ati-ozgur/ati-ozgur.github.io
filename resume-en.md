@@ -96,4 +96,4 @@ Available upon request.
 - German (B1, Telc certification)
 - Bulgarian (A1)
 
-Long Version of My Resume
+[Long Version of My Resume](https://docs.google.com/document/d/1sJCHMVFrh0yWYBo6lHNOUm1UgHN2dsGzuYlK8a2rhK8/edit?usp=drive_link)
