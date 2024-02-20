@@ -34,8 +34,8 @@ I currently work as a scientific developer focused on machine learning and optim
 | Software Developer and Build/DevOps Engineer  | Milsoft | 05/2010 | 07/2011 |
 | Senior Software Developer  | Tilda Telekom | 10/2009 | 05/2010 |
 | Software Trainer  | Freelance | 06/2009 | 10/2009 |
-| Software Team Lead  | Turksat | 07/2008 | 06/2009 |
-| Software Team Lead  | Simetri | 09/2006 | 04/2008 |
+| Software Project Manager  | Turksat | 07/2008 | 06/2009 |
+| Software Project Manager  | Simetri | 09/2006 | 04/2008 |
 | Software Trainer  | Netsoft | 10/2005 | 12/2006 |
 | Software Developer  | Kale Yazılım | 10/2004 | 10/2005 |
 | Software Developer  | Veripark | 06/2003 | 10/2004 |
