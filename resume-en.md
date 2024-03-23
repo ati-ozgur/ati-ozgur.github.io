@@ -59,7 +59,7 @@ I currently work as a scientific developer focused on machine learning and optim
 
 ## Certifications - Exams (See Long Version for Complete History)
 
-* OCA - Oracle Database 11g Administrator Certified Associate , 2010
+* [OCA - Oracle Database 11g Administrator Certified Associate](certificates/Oracle-Database-11g-Administrator-Certified-Associate.pdf) , 2010
 * Microsoft Certified Professional  Developer  , Asp.Net Developer 3.5
 * Microsoft Certified IT Professional  Database Developer , 2008, (Early Achiever, Beta Exam)
 * Microsoft Certified Trainer (MCT) , Microsoft, 2005
