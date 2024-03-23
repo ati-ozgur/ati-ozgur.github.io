@@ -2,6 +2,10 @@
 title: "Atilla Özgür Web"
 ---
 
+- [Resume English](resume-en.md)
+- [Özgeçmiş Türkçe](resume-tr.md)
+
+
 ## Courses English
 
 - [Programming in python](course-python)
