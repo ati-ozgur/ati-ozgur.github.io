@@ -6,18 +6,22 @@ title: "Atilla Özgür Web"
 - [Özgeçmiş Türkçe](resume-tr.md)
 
 
-## Courses English
+## Courses Taught English
 
 - [Programming in python](course-python)
 
 
-## Kurslarım Türkçe 
+## Kendi verdiğim kurslar Türkçe 
 
 - [Programlama Temeller](kurs-programlama-temeller)
 
 
+
+
+
 ## Previous posts
 
+- [Online Courses Finished](online-courses-finished.md)
 - [FirstProgrammingLanguageJavaAndBlueJ](FirstProgrammingLanguageJavaAndBlueJ.md)
 
 
