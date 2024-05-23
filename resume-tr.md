@@ -31,7 +31,8 @@ Tezim makine öğrenimi, optimizasyon ve saldırı tespit sistemleri üzerineydi
 
 | Ünvan             | Kurum     | Başlangıç   | Bitiş |
 |-------------------|-------------|---------|-----|
-| Kidemli Yazılım Geliştirici  | SMS Digital | 02-2022 | Now |
+| Doktora Sonrası Araştırmacı  | Constructor Üniversitesi Bremen - Mathematics and Logistics| 04/2024 | - |
+| Kidemli Yazılım Geliştirici  | SMS Digital | 02-2022 | 03-2024 |
 | Doktor Öğretim Üyesi | Ankara Yıldırım Beyazıd Üniversitesi - Bilgisayar Mühendisliği | 06/2021| 02/2022 |
 | Doktora Sonrası Araştırmacı  | Jacobs Üniversitesi Bremen - Mathematics and Logistics| 01/2018 | 01/2022 |
 | Veritabanı Yöneticisi  | Turkish Labor Agency | 07/2011 | 12/2017 |
