@@ -27,7 +27,7 @@ I currently work as a scientific developer focused on machine learning and optim
 
 | Title             | Company     | Start   | End |
 |-------------------|-------------|---------|-----|
-| Postdoctoral Researcher  | Jacobs University Bremen - Mathematics and Logistics| 04/2024 | NOW |
+| Postdoctoral Researcher  | Constructor University Bremen - Mathematics and Logistics| 04/2024 | NOW |
 | Senior Developer  | SMS Digital | 02-2022 | 03-2024 |
 | Assistant Professor | Ankara Yıldırım Beyazıd University - Computer Engineering | 06/2021| 02/2022 |
 | Postdoctoral Researcher  | Jacobs University Bremen - Mathematics and Logistics| 01/2018 | 01/2022 |
