@@ -1,7 +1,6 @@
 # Özgeçmiş Atilla Özgür (Phd)
 
-Mönchengladbach Germany 1) +49 0162 5638824, 2) ati.ozgur@gmail.com  3) atilla.oezguer@sms-digital.com
-
+Mönchengladbach Germany 1) +49 0162 5638824, 2) ati.ozgur@gmail.com  3) aoezguer@constructor.university
 ## Özet nitelikler
 
 Kendimi çok farklı dillerde programcı, veritabanı geliştiricisi, devops ve araştırmacı olarak görüyorum. 
@@ -93,13 +92,15 @@ Tezim makine öğrenimi, optimizasyon ve saldırı tespit sistemleri üzerineydi
 5. [linkedin](http://www.linkedin.com/in/atiozgur)
 
 ## Referanslar
-Available upon request.
+
+İstek üzerine verilebilir.
+
 
 ## Yabancı diller
 
-- Turkish (Anadil)
-- English (C2)
-- German (B1, Telc certification)
-- Bulgarian (A1)
+- Türkçe (Anadil)
+- İngilizce (C2)
+- Almanca (B1, Telc certification)
+- Bulgarca (A1)
 
 [Özgeçmişin uzun versiyonu](https://docs.google.com/document/d/1sJCHMVFrh0yWYBo6lHNOUm1UgHN2dsGzuYlK8a2rhK8/edit?usp=drive_link)

@@ -1,6 +1,6 @@
 # Resume of Atilla Özgür (Phd)
 
-Mönchengladbach Germany 1) +49 0162 5638824, 2) ati.ozgur@gmail.com  3) atilla.oezguer@sms-digital.com
+Mönchengladbach Germany 1) +49 0162 5638824, 2) ati.ozgur@gmail.com  3) aoezguer@constructor.university
 
 ## Summary of Qualifications
 
