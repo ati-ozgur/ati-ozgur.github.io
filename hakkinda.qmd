@@ -1,1 +1,6 @@
-hakkinda.qmd
+---
+title: "Hakkında"
+---
+
+- [Atilla Özgür Özgeçmiş](resume-tr.md)
+
