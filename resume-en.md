@@ -1,6 +1,8 @@
 # Resume of Atilla Özgür (Phd)
 
-Mönchengladbach Germany 1) +49 0162 5638824, 2) ati.ozgur@gmail.com  3) aoezguer@constructor.university
+- Mönchengladbach Germany/Ankara Türkiye
+- +49 0162 5638824 / +90 0533 2515557
+- ati.ozgur@gmail.com / aoezguer@constructor.university
 
 ## Summary of Qualifications
 
@@ -19,7 +21,7 @@ I currently work as a scientific developer focused on machine learning and optim
 |----------------------------------|------------------------|----------|-------|------|
 | Middle East Technical University | Electrical Engineering | Bachelor | 1995  | 2003 |
 | Atılım University                | Computer Engineering   | Master   | 2004  | 2007 |
-| Middle East Technical University | Medical Informatics    | Master   | 2005  | 2008, Incomplete |
+| Middle East Technical University | Medical Informatics (Incomplete)   | Master   | 2005  | 2008 |
 | Başkent University               | Electrical Engineering | PHD      | 2007  | 2017 |
 
 
@@ -27,7 +29,7 @@ I currently work as a scientific developer focused on machine learning and optim
 
 | Title             | Company     | Start   | End |
 |-------------------|-------------|---------|-----|
-| Postdoctoral Researcher  | Constructor University Bremen - Mathematics and Logistics| 04/2024 | NOW |
+| Postdoctoral Researcher  | Constructor University Bremen - Mathematics and Logistics| 04/2024 | - |
 | Senior Developer  | SMS Digital | 02-2022 | 03-2024 |
 | Assistant Professor | Ankara Yıldırım Beyazıd University - Computer Engineering | 06/2021| 02/2022 |
 | Postdoctoral Researcher  | Jacobs University Bremen - Mathematics and Logistics| 01/2018 | 01/2022 |
@@ -81,7 +83,7 @@ I currently work as a scientific developer focused on machine learning and optim
 * Note: I have taught numerous courses when I was working as an IT Trainer and Senior Developer, mostly general programming, web programming, software management and database courses. 
 
 ## Online Presence
-1. [google scholar](https://scholar.google.com.tr/citations?user=Q9ll-kcAAAAJ&hl=en)
+1. [google scholar (h-index:9)](https://scholar.google.com.tr/citations?user=Q9ll-kcAAAAJ&hl=en)
 2. [researchgate](https://www.researchgate.net/profile/Atilla_Oezguer)
 3. [github](https://github.com/ati-ozgur)
 4. [stack exchange](http://stackexchange.com/users/18290/atilla-ozgur?tab=reputation)
