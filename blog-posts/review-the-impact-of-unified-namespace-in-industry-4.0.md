@@ -21,7 +21,7 @@ Only after 100 connected devices advantages of MQTT will be seen.
 
 
 Thesis is 138 pages long.
-They interviewed 3 manufacturing companies Sweden and also HighByte.
+They interviewed 3 manufacturing companies in Sweden and also HighByte, MQTT software provider.
 They also made a simulation of Unified namespace (UNS) but unfortunately simulation details are lacking and no code is given.
 
 First 57 pages and 3 sections should be very familiar to people who are working on Industrial automation and have heard of UNS.
@@ -36,12 +36,12 @@ I have read following thesis [The Impact of Unified Namespace in Industry 4.0](h
 
 Most important thing I learned from reading this thesis is "there is no clear definition of Unified namespace"
 
-In section, 3.3 The Unified Namespace:
+In section, 3.3 The Unified Namespace defined.
 
 > The term Unified namespace was popularized by Walker Reynolds, that created the first UNS project in 2005, and who is an avid supporter and spokesperson for the technology. 
 
-
-The problem with above sections and UNS is that there is almost nothing to cite academically.
+They write this section using blog posts and some help from videos of Walker Reynolds.
+The problem with this section and UNS is that there is almost nothing to cite academically.
 That is apart from some blog posts and videos, there is nothing which defines UNS concretely.
 No technical reports, no books, no academic articles that define UNS.
 When you look at the references of this thesis, this is clearly observed.
@@ -55,7 +55,7 @@ Below sentences actually summarize these very well.
 
 > Harrington (from HighByte) says that UNS is an ever-evolving concept. The definition and message that Walker Reynold gave just a few years ago has changed in the past years and will probably continue to do so. 
 
-There is nothing wrong with evolving a definition actually definition should evolve but first a clear definition is needed.
+There is nothing wrong with evolving a definition but first a clear definition is needed.
 
 
 ## ISA-95
