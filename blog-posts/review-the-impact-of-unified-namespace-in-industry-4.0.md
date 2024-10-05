@@ -6,7 +6,7 @@ The Impact of Unified Namespace in Industry 4.0
 by Ádám Samuel and Péter Werner 
 Lund University
 Department of Automatic Control
-https://lup.lub.lu.se/student-papers/record/9174552/file/9174561.pdf
+[link](https://lup.lub.lu.se/student-papers/record/9174552/file/9174561.pdf)
 
 
 TLDR; 
