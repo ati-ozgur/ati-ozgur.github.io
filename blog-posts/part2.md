@@ -1,13 +1,8 @@
-part2.md
 ## Interesting Conclusions
 
 This report concluded that at around 100 connected devices advantages of MQTT will become noticeable. 
 
-
-
 ## Interesting quotes
-
-
 
 
 
