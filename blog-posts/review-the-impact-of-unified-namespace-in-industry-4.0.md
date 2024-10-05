@@ -2,11 +2,11 @@
 
 I have read following master thesis:
 
-The Impact of Unified Namespace in Industry 4.0
-by Ádám Samuel and Péter Werner 
-Lund University
-Department of Automatic Control
-[link](https://lup.lub.lu.se/student-papers/record/9174552/file/9174561.pdf)
+- The Impact of Unified Namespace in Industry 4.0
+- by Ádám Samuel and Péter Werner 
+- Lund University
+- Department of Automatic Control
+- [link](https://lup.lub.lu.se/student-papers/record/9174552/file/9174561.pdf)
 
 
 ## TLDR
