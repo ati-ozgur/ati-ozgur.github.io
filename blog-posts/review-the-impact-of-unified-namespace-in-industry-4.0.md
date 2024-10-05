@@ -41,7 +41,7 @@ In section, 3.3 The Unified Namespace defined.
 > The term Unified namespace was popularized by Walker Reynolds, that created the first UNS project in 2005, and who is an avid supporter and spokesperson for the technology. 
 
 They write this section using blog posts and some help from videos of Walker Reynolds.
-The problem with this section and UNS is that there is almost nothing to cite academically.
+The problem with this section and UNS is that there is almost **nothing to cite** academically.
 That is apart from some blog posts and videos, there is nothing which defines UNS concretely.
 No technical reports, no books, no academic articles that define UNS.
 When you look at the references of this thesis, this is clearly observed.
