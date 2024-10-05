@@ -3,7 +3,7 @@
 I have read following master thesis:
 
 The Impact of Unified Namespace in Industry 4.0
-ÁdámSamuel and Péter Werner 
+by Ádám Samuel and Péter Werner 
 Lund University
 Department of Automatic Control
 https://lup.lub.lu.se/student-papers/record/9174552/file/9174561.pdf
@@ -12,8 +12,8 @@ https://lup.lub.lu.se/student-papers/record/9174552/file/9174561.pdf
 TLDR; 
 
 1. There is no clear definition of UNS
-2. MQTT is not always needed, OPC-UA is good enough for small to mid companies
-3. ISA95 structure and single source of truth is the most useful parts of UNS.
+2. ISA95 structure and single source of truth is the most useful parts of UNS.
+3. MQTT is not always needed, OPC-UA is good enough for small to mid companies. Only after 100 connected devices advantages of MQTT will be seen.
 
 ## Short summary
 

@@ -1,5 +1,7 @@
 # There is no clear definition of Unified Namespace (UNS)
 
+I have read following thesis [The Impact of Unified Namespace in Industry 4.0](https://lup.lub.lu.se/student-papers/record/9174552/file/9174561.pdf)
+
 Most important thing I learned from reading this thesis is "there is no clear definition of Unified namespace"
 
 In section, 3.3 The Unified Namespace:
