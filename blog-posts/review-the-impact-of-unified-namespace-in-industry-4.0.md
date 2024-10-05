@@ -9,11 +9,14 @@ Department of Automatic Control
 [link](https://lup.lub.lu.se/student-papers/record/9174552/file/9174561.pdf)
 
 
-TLDR; 
+## TLDR
 
-1. There is no clear definition of UNS
-2. ISA95 structure and single source of truth is the most useful parts of UNS.
-3. MQTT is not always needed, OPC-UA is good enough for small to mid companies. Only after 100 connected devices advantages of MQTT will be seen.
+1. There is no clear definition of Unified Namespace (UNS)
+
+2. ISA95 structure and single source of truth are the most useful parts of UNS.
+
+3. MQTT is not always needed, OPC-UA is good enough for small to mid companies. 
+Only after 100 connected devices advantages of MQTT will be seen.
 
 ## Short summary
 
@@ -24,6 +27,7 @@ They also made a simulation of Unified namespace (UNS) but unfortunately simulat
 
 First 57 pages and 3 sections should be very familiar to people who are working on Industrial automation and have heard of UNS.
 They explain common terms in UNS, IIoT, Artificial Intelligence, MQTT and so on.
+
 Then, interviews are given and companies explain their experience with UNS.
 Last, they give their conclusions.
 
@@ -55,17 +59,17 @@ Below sentences actually summarize these very well.
 There is nothing wrong with evolving a definition actually definition should evolve but first a clear definition is needed.
 
 
-## ISA95
+## ISA-95
 
 From the interviews, ISA-95 way of structuring the data is very useful.
-Instead of using relational model to using this hierarchical model is more intuitive in the Industrial setting.
+Instead of using relational model, using ISA-95 hierarchical model is more intuitive in the Industrial setting.
 
 ## MQTT and OPC-UA
 
 A lot of companies are using OPC-UA since it is widely supported and familiar with the factories.
-The reason for MQTT is given for scalability.
+The given reason for MQTT is scalability.
 But in my opinion, premature optimization is the root of all evil.
-The thesis also concludes.
+The thesis also confirms this.
 
 > This report concluded that at around 100 connected devices advantages of MQTT will become noticeable. 
 
