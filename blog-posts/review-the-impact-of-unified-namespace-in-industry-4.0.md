@@ -2,11 +2,10 @@
 
 I have read following master thesis:
 
-- The Impact of Unified Namespace in Industry 4.0
-- by Ádám Samuel and Péter Werner 
-- Lund University
-- Department of Automatic Control
-- [link](https://lup.lub.lu.se/student-papers/record/9174552/file/9174561.pdf)
+**The Impact of Unified Namespace in Industry 4.0** 
+by Ádám Samuel and Péter Werner 
+Lund University
+Department of Automatic Control [download link](https://lup.lub.lu.se/student-papers/record/9174552/file/9174561.pdf)
 
 
 ## TLDR
@@ -23,7 +22,7 @@ Only after 100 connected devices advantages of MQTT will be seen.
 
 Thesis is 138 pages long.
 They interviewed 3 manufacturing companies Sweden and also HighByte.
-They also made a simulation of Unified namespace (UNS) but unfortunately simulation details are very lacking and no code is given.
+They also made a simulation of Unified namespace (UNS) but unfortunately simulation details are lacking and no code is given.
 
 First 57 pages and 3 sections should be very familiar to people who are working on Industrial automation and have heard of UNS.
 They explain common terms in UNS, IIoT, Artificial Intelligence, MQTT and so on.
@@ -74,4 +73,7 @@ The thesis also confirms this.
 > This report concluded that at around 100 connected devices advantages of MQTT will become noticeable. 
 
 
+## Conclusion
+
+All in all, interesting read in my opinion and a good master thesis.
 
