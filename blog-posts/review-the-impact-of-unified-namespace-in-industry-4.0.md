@@ -12,7 +12,7 @@ Department of Automatic Control [download link](https://lup.lub.lu.se/student-pa
 
 1. There is no clear definition of Unified Namespace (UNS)
 
-2. ISA95 structure and single source of truth are the most useful parts of UNS.
+2. ISA-95 structure and single source of truth are the most useful parts of UNS.
 
 3. MQTT is not always needed, OPC-UA is good enough for small to mid companies. 
 Only after 100 connected devices advantages of MQTT will be seen.
