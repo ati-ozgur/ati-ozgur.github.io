@@ -8,9 +8,12 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
-      - hakkinda.qmd
-      - blog-posts.qmd
+      - href: about.qmd
+        text: About        
+      - href: hakkinda.qmd
+        text: Hakkında        
+      - href: blog-posts.qmd
+        text: Posts        
 
 format:
   html:

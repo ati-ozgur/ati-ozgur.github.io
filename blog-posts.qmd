@@ -1,4 +1,6 @@
-# blog posts
+# Blog posts by Atilla Özgür
 
+
+## 2024-10
 
 - [review-of-master-thesis-The Impact of Unified Namespace in Industry 4.0](blog-posts/review-the-impact-of-unified-namespace-in-industry-4.0.md)
