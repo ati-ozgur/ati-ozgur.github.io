@@ -1,7 +1,5 @@
 # Review of master thesis: The Impact of Unified Namespace in Industry 4.0
 
-## Part 1
-
 I have read following master thesis:
 
 The Impact of Unified Namespace in Industry 4.0
@@ -9,6 +7,15 @@ The Impact of Unified Namespace in Industry 4.0
 Lund University
 Department of Automatic Control
 https://lup.lub.lu.se/student-papers/record/9174552/file/9174561.pdf
+
+
+TLDR; 
+
+1. There is no clear definition of UNS
+2. MQTT is not always needed, OPC-UA is good enough for small to mid companies
+3. ISA95 structure and single source of truth is the most useful parts of UNS.
+
+## Review Part 1
 
 
 Thesis is 138 pages long.
@@ -44,32 +51,4 @@ Below sentences actually summarize these very well.
 
 There is nothing wrong with evolving a definition actually definition should evolve but first a clear definition is needed.
 
-
-## Interesting Conclusions
-
-This report concluded that at around 100 connected devices advantages of MQTT will become noticeable. 
-
-
-
-## Interesting quotes
-
-
-
-
-
-I am summarizing some of the interesting sentences from the these part below.
-
-3.1.2 Industrial Artificial Intelligence
-This section is a good intro.
-
-
-
-> Industrial AI can be categorized in six levels, where 0 represents the lack of AI and 5 is a fully autonomous system: (Peres, et al, 2020)
-(Zohaib, et al., 2023)
-
-
->In order to tune [LLM] models, one needs an immense amount of data....
->This is a key reason for why LLMs have demonstrated remarkable capabilities in natural language processing tasks, but struggle in domain-specific tasks, which is what Industrial AI is trademarked as. 
-...
->The availability of industrial data is very limited, as businesses generally are secretive with their processes and historically lack the infrastructure for useful data-handling and tracking, even for their own operations. 
 
