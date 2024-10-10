@@ -22,7 +22,7 @@ title: "Atilla Özgür Web"
 ## Previous posts
 
 - [Online Courses Finished](online-courses-finished.md)
-- [FirstProgrammingLanguageJavaAndBlueJ](FirstProgrammingLanguageJavaAndBlueJ.md)
+
 
 
 
