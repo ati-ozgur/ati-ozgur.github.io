@@ -11,7 +11,7 @@ I have used information from following posts to create my own solution.
 
 - [Multi-language Blog with Quarto - Guide](https://oooo12.ooo/blog/multilanguage-blog-with-quarto/)
 
-I have used [quarto project profiles](https://quarto.org/docs/projects/profiles.html) and navigation bar for this purpose.
+I have used [quarto project profiles](https://quarto.org/docs/projects/profiles.html) and [navigation bar](https://quarto.org/docs/websites/website-navigation.html#top-navigation) for this purpose.
 
 I have three profiles
 
@@ -23,7 +23,8 @@ def profile is only used for main index.html page and redirection to English and
 You can see the important parts of the quarto.yml below.
 I removed unimportant parts in the below quarto.yml file.
 You could see original file [here](https://github.com/ati-ozgur/course-database/blob/main/_quarto.yml).
-below [Index.qmd](https://github.com/ati-ozgur/course-database/blob/main/index.qmd) file contains two links for going to English or Turkish versions.
+
+Below [Index.qmd](https://github.com/ati-ozgur/course-database/blob/main/index.qmd) file contains two links for going to English or Turkish versions.
 
 
 ```yml
