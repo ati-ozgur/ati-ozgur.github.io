@@ -3,4 +3,7 @@
 
 ## 2024-10
 
+- [Quarto multi language book](blog-posts/quarto-multi-language-book.md)
+
+
 - [review-of-master-thesis-The Impact of Unified Namespace in Industry 4.0](blog-posts/review-the-impact-of-unified-namespace-in-industry-4.0.md)
