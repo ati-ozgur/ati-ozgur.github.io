@@ -21,7 +21,9 @@ I have three profiles
 
 def profile is only used for main index.html page and redirection to English and Turkish main pages.
 You can see the important parts of the quarto.yml below.
-I removed unimportant parts in the below
+I removed unimportant parts in the below quarto.yml file.
+You could see original file [here](https://github.com/ati-ozgur/course-database/blob/main/_quarto.yml).
+below [Index.qmd](https://github.com/ati-ozgur/course-database/blob/main/index.qmd) file contains two links for going to English or Turkish versions.
 
 
 ```yml
@@ -35,3 +37,63 @@ book:
 ```
 
 
+
+In the other two profiles, we render in two different directories using **output-dir** property.
+Then using **navbar**, we could switch between the sites.
+
+[quarto-tr.yml](https://github.com/ati-ozgur/course-database/blob/main/_quarto-tr.yml
+)
+
+```yml
+project:
+  output-dir: ./_site/tr
+book:
+  title: "Veritabanlarına Giriş"
+  navbar:
+    background: primary
+    search: true
+    right:
+      - text: "English"
+        href: ../en/index.html
+      - text: "Türkçe"
+        href: ../tr/index.html
+```      
+
+[quarto-en.yml](https://github.com/ati-ozgur/course-database/blob/main/_quarto-en.yml
+)
+```yml
+project:
+  output-dir: ./_site/en
+
+book:
+  title: "Introduction to databases"
+  navbar:
+    background: primary
+    search: true
+    right:
+      - text: "English"
+        href: ../en/index.html
+      - text: "Türkçe"
+        href: ../tr/index.html
+```      
+
+To be able to render all of the profiles, we render three times like below.
+
+```bash
+quarto render --to html --profile def
+quarto render --to html --profile en
+quarto render --to html --profile tr
+``` 
+In the github pages, above commands is repeated using following yml.
+
+
+```yml
+      - name: Render Quarto Project Profile Def
+        uses: quarto-dev/quarto-actions/render@v2
+        env:
+          QUARTO_PROFILE: def
+        with:
+          to: html 
+```
+
+See [github workflow yaml](https://github.com/ati-ozgur/course-database/blob/main/.github/workflows/publish-github-pages.yml) file and [working site](https://ati-ozgur.github.io/course-database/).
