@@ -8,7 +8,9 @@ title: "Atilla Özgür Web"
 
 ## Courses Taught English
 
-- [Programming in python](course-python)
+- [Introduction to databases](https://ati-ozgur.github.io/course-database/)
+
+- [Programming in python](https://github.com/ati-ozgur/course-python/)
 
 
 ## Kendi verdiğim kurslar Türkçe 
