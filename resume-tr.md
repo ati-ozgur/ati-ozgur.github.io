@@ -12,10 +12,11 @@ Oracle (OCA 11g) ve SQL Server (2000-2008) Veritabanları konusunda sertifikalı
 Doktora+Doktora sonrası çalışmalarım nedeniyle 16 yılı aşkın süredir makine öğrenimi ve yapay zeka üzerine çalışıyorum. 
 Elektrik Mühendisliği alanında doktora derecesine sahibim. 
 Tezim makine öğrenimi, optimizasyon ve saldırı tespit sistemleri üzerineydi. 
-Şu anda çelik üretim sistemleri için makine öğrenimi ve optimizasyonuna odaklanan bilimsel bir yazılım geliştirici olarak çalışıyorum.
+Doktora sonrasında 6 sene çelik üretim sistemleri için makine öğrenimi ve optimizasyonuna odaklanan bilimsel bir yazılım geliştirici olarak çalıştım.
+Şu an büyük dil modelleri kullanılarak firmaların şartname cevaplarını daha hızlı vermesine yardımcı olacak bir projede çalışıyorum.
 
 
-## Education
+## Resmi Eğitim
 
 
 | Eğitim                       | Bölüm             | Derece   | Başlangıç | Bitiş  |
