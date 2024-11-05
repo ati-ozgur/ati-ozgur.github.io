@@ -28,7 +28,7 @@ title: "Atilla Özgür Web"
 
 
 
-## Kendi verdiğim kurslar Türkçe 
+## Courses in Turkish  
 
 - [Programlama Temeller](kurs-programlama-temeller)
 
