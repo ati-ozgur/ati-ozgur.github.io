@@ -2,8 +2,8 @@
 title: "Atilla Özgür Web"
 ---
 
-- [Resume English](resume-en.md)
-- [Özgeçmiş Türkçe](resume-tr.md)
+- [Resume English](resume-en.qmd)
+- [Özgeçmiş Türkçe](resume-tr.qmd)
 
 - [My translated to Turkish Planning book](https://ati-ozgur.github.io/planlama-kucuk-mavi-kitap/)
 
