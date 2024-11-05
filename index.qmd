@@ -5,12 +5,25 @@ title: "Atilla Özgür Web"
 - [Resume English](resume-en.md)
 - [Özgeçmiş Türkçe](resume-tr.md)
 
+- [My translated to Turkish Planning book](https://ati-ozgur.github.io/planlama-kucuk-mavi-kitap/)
 
 ## Courses Taught English
+
 
 - [Introduction to databases](https://ati-ozgur.github.io/course-database/)
 
 - [Programming in python](https://github.com/ati-ozgur/course-python/)
+
+- [Neural Networks and Deep Learning](https://github.com/ati-ozgur/course-nn-deep-learning)
+
+- [Data Mining](https://github.com/ati-ozgur/course-data-mining)
+
+- [Data Science with R](https://github.com/ati-ozgur/course-r-programming)
+
+- [Programming Languages](https://github.com/ati-ozgur/course-programming-languages)
+
+- [Web Programming](https://github.com/ati-ozgur/course-web-programming)
+
 
 
 ## Kendi verdiğim kurslar Türkçe 
@@ -24,8 +37,6 @@ title: "Atilla Özgür Web"
 ## Previous posts
 
 - [Online Courses Finished](online-courses-finished.md)
-
-
 
 
 ## Not
