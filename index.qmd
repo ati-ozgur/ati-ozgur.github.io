@@ -36,10 +36,10 @@ title: "Atilla Özgür Web"
 
 
 
-## Previous posts
+## Others
 
 - [Online Courses Finished](online-courses-finished.md)
-
+- [Blog Posts](blog-posts.qmd)
 
 ## Not
 
