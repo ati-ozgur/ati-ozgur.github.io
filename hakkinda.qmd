@@ -2,5 +2,5 @@
 title: "Hakkında"
 ---
 
-- [Atilla Özgür Özgeçmiş](resume-tr.md)
+- [Atilla Özgür Özgeçmiş](resume-tr.qmd)
 
