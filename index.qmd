@@ -1,13 +1,23 @@
 ---
-title: "Atilla Özgür Web"
+title: "Atilla Özgür (Phd) Web Page"
 ---
+
+
+{{< include short-summary-en.md >}}
+
+## Resume
 
 - [Resume English](resume-en.qmd)
 - [Özgeçmiş Türkçe](resume-tr.qmd)
 
+## Writings
+
 - [My translated to Turkish Planning book](https://ati-ozgur.github.io/planlama-kucuk-mavi-kitap/)
 
 - [My scientific articles in Google Scholar](https://scholar.google.com/citations?user=Q9ll-kcAAAAJ&hl=en)
+
+- [Blog Posts](blog-posts.qmd)
+
 
 ## Courses Taught English
 
@@ -39,7 +49,7 @@ title: "Atilla Özgür Web"
 ## Others
 
 - [Online Courses Finished](online-courses-finished.md)
-- [Blog Posts](blog-posts.qmd)
+
 
 ## Not
 
