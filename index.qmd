@@ -34,7 +34,7 @@ title: "Atilla Özgür (Phd) Web Page"
 
 ## Others
 
-- [Online Courses Finished](online-courses-finished.md)
+- [Online Courses Finished](resume/online-courses-finished.md)
 
 
 ## Not
