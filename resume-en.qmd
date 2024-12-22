@@ -25,7 +25,7 @@
 | Title             | Company     | Start   | End |
 |-------------------|-------------|---------|-----|
 | Postdoctoral Researcher  | Constructor University Bremen - Mathematics and Logistics| 04/2024 | - |
-| Adjunct Professor (Part time)   | Ankara Science University | 09-2024 | - |
+| Adjunct Professor (Part time)   | Ankara Science University | 09-2024 | 02-2025 |
 | Senior Developer  | SMS Digital | 02-2022 | 03-2024 |
 | Adjunct Professor (Part time)   | Constructor University | 09-2022 | 02-2024 |
 | Assistant Professor | Ankara Yıldırım Beyazıd University - Computer Engineering | 06/2021| 02/2022 |
