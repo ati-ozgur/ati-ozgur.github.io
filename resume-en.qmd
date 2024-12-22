@@ -3,7 +3,7 @@
 - Mönchengladbach Germany/Ankara Türkiye
 - +49 0162 5638824 / +90 0533 2515557
 - ati.ozgur@gmail.com / aoezguer@constructor.university
-
+- (Last Updated 2024-12-22)
 
 
 {{< include short-summary-en.md >}}
@@ -97,3 +97,4 @@ Available upon request.
 - Bulgarian (A1)
 
 [Long Version of My Resume](https://docs.google.com/document/d/1sJCHMVFrh0yWYBo6lHNOUm1UgHN2dsGzuYlK8a2rhK8/edit?usp=drive_link)
+
