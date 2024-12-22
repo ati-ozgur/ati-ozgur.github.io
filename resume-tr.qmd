@@ -5,7 +5,7 @@
 - ati.ozgur@gmail.com / aoezguer@constructor.university
 
 
-{{< include short-summary-tr.md >}}
+{{< include resume/short-summary-tr.md >}}
 
 
 ## Resmi Eğitim

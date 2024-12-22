@@ -3,7 +3,7 @@ title: "Atilla Özgür (Phd) Web Page"
 ---
 
 
-{{< include short-summary-en.md >}}
+{{< include resume/short-summary-en.md >}}
 
 ## Resume
 
