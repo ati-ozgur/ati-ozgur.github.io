@@ -19,23 +19,9 @@ title: "Atilla Özgür (Phd) Web Page"
 - [Blog Posts](blog-posts.qmd)
 
 
-## Courses Taught English
+## Courses English
 
-
-- [Introduction to databases](https://ati-ozgur.github.io/course-database/)
-
-- [Programming in python](https://github.com/ati-ozgur/course-python/)
-
-- [Neural Networks and Deep Learning](https://github.com/ati-ozgur/course-nn-deep-learning)
-
-- [Data Mining](https://github.com/ati-ozgur/course-data-mining)
-
-- [Data Science with R](https://github.com/ati-ozgur/course-r-programming)
-
-- [Programming Languages](https://github.com/ati-ozgur/course-programming-languages)
-
-- [Web Programming](https://github.com/ati-ozgur/course-web-programming)
-
+{{< include resume/courses-taught-en.md >}}
 
 
 ## Courses in Turkish  
