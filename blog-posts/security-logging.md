@@ -52,9 +52,9 @@ These include following, see the book or [the code](https://github.com/Apress/Ad
 - Request Path 
 
 In the government ERP systems, I have worked before, we have logged very similar information also.
-Logged in user ID is very useful information to have.
+Logged-in User ID is a very useful information to have.
 
-But he also proposes adding these two critical information.
+But he also proposes adding these two critical attributes.
 
 - SecurityEventType
 - SecurityLevel
@@ -78,7 +78,7 @@ public enum SecurityLevel
 
 Here, whenever you log something in the backend, you also log also SecurityLevel.
 
-He gives an example for log on pages.
+He gives an example, SecurityEvent Authentication, for log on pages.
 
 ```csharp
 public static partial class SecurityEvent
@@ -100,9 +100,9 @@ In my systems, I am also logging EventId for tracking user problems.
 How this SecurityEvent and SecurityLevel will help me?
 
 Author calls this **Using Logging in Your Active Defenses**
-Author advises to store logs in database for easy querying and using this security information for defenses.
+Author advises to store logs in database for easy querying and using this security information for active defenses.
 
-Since author logs, SecurityEventType and SecurityLevel information, he can check these information in active defenses in code.
+Since the system logs, SecurityEventType and SecurityLevel information, our system code can check these information in active defenses.
 Following examples are from book:
 
 - check the number of times a user from a particular IP tried to log in and their password did not work. If this count is higher than 20, block that user from reaching the page for a time.
