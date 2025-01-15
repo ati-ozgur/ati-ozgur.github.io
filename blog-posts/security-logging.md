@@ -29,6 +29,8 @@ But I want to talk about the security perspective of this attack from a develope
 
 First of all, of course, such a sensitive information should not be logged in the client side.
 But a lot of developers are becoming less knowledgeable in fundamentals, thus, less knowledgeable in security also.
+In my opinion, this situation will worsen with AI assistance becoming more used.
+
 See this [video Web Developers Are Disconnected](https://www.youtube.com/watch?v=oNjfXnhq0UM) and this blog post [How do you do, fellow web developers? A growing disconnect](https://rakhim.exotext.com/web-developers-a-growing-disconnect).
 
 > I had a "woah" moment once when one programmer got genuinely baffled about the fact that a website somehow "erases" the history of requests from the Network tab of Chrome DevTools. He was wondering what magic method was used to hide the communication. He hadn't realized the app was not a single-page JS application (SPA), and he actually wasn't aware there is another way to make web apps. The idea that each click actually makes the browser fetch a completely new page, without any JS involved, was alien to him. 
@@ -129,7 +131,7 @@ private bool CanAccessPage()
     }
 ```  
 Current example code does not have this functionality but IP based restrictions without user information could also be added to these active defenses.
-Such defenses would have prevented this described e-nabız attack in the back end  even with problematic frontend code.
+Such defenses would have prevented this described e-nabız attack in the back-end  even with problematic front-end code.
 
 
 
