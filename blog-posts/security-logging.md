@@ -40,13 +40,39 @@ I digress, I would like to talk about Chapter 11 Logging and Error Handling of t
 
 Norberg starts talking what to log and what not to log.
 For example, in the logging and compliance part, he talks about logging who accessed the sensitive information.
-HIPAA (Health Insurance Portability and Accountability Act) of USA has some strict rules about this.
-For example logging the 
 
-about .NET logging but rightly assert that it is developer focused not security focused.
-He 
+Then he talks about .NET logging but rightly assert that it is developer focused not security focused.
 
- 
+He proposes logging a lot of information.
+These include following, see the book or [the code](https://github.com/Apress/Advanced-ASP.NET-Core-8-Security-2nd-ed) for complete list.
+
+- Event ID
+- Logged-In User ID 
+- Request IP Address 
+- Request Path 
+
+In the government ERP systems, I have worked before, we have logged very similar information also.
+Logged in user ID is very useful information to have.
+
+But he also proposes adding these two critical information.
+
+- SecurityEventType
+- SecurityLevel
+
+
+```csharp
+public enum SecurityLevel
+{
+    SECURITY_NA = 1,
+    SECURITY_SUCCESS = 2,
+    SECURITY_AUDIT = 3,
+    SECURITY_INFO = 4,
+    SECURITY_WARNING = 5,
+    SECURITY_ERROR = 6,
+    SECURITY_CRITICAL = 7
+}
+```
+
 
 
 
