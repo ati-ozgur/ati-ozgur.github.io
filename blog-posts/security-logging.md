@@ -59,6 +59,9 @@ But he also proposes adding these two critical information.
 - SecurityEventType
 - SecurityLevel
 
+Below code examples are taken from [book github repo, JuiceShopDotNet.Safe/Logging folder](https://github.com/Apress/Advanced-ASP.NET-Core-8-Security-2nd-ed/tree/main/JuiceShopDotNet.Safe/Logging)
+
+
 
 ```csharp
 public enum SecurityLevel
@@ -73,12 +76,61 @@ public enum SecurityLevel
 }
 ```
 
+Here, whenever you log something in the backend, you also log also SecurityLevel.
+
+He gives an example for log on pages.
+
+```csharp
+public static partial class SecurityEvent
+{
+    public static class Authentication
+    {
+        public static SecurityEventType LOGIN_SUCCESSFUL { get; } = new SecurityEventType(1200, LogLevel.Information, SecurityEventType.SecurityLevel.SECURITY_SUCCESS);
+        public static SecurityEventType LOGOUT_SUCCESSFUL { get; } = new SecurityEventType(1201, LogLevel.Information, SecurityEventType.SecurityLevel.SECURITY_SUCCESS);
+        public static SecurityEventType PASSWORD_MISMATCH { get; } = new SecurityEventType(1202, LogLevel.Debug, SecurityEventType.SecurityLevel.SECURITY_INFO);
+        public static SecurityEventType USER_LOCKED_OUT { get; } = new SecurityEventType(1203, LogLevel.Debug, SecurityEventType.SecurityLevel.SECURITY_WARNING);
+        public static SecurityEventType USER_NOT_FOUND { get; } = new SecurityEventType(1204, LogLevel.Information, SecurityEventType.SecurityLevel.SECURITY_WARNING);
+        public static SecurityEventType LOGIN_SUCCESS_2FA_REQUIRED { get; } = new SecurityEventType(1210, LogLevel.Information, SecurityEventType.SecurityLevel.SECURITY_INFO);
+    }
+}
+```
+
+So far so good. 
+In my systems, I am also logging EventId for tracking user problems.
+How this SecurityEvent and SecurityLevel will help me?
+
+Author calls this **Using Logging in Your Active Defenses**
+Author advises to store logs in database for easy querying and using this security information for defenses.
+
+Since author logs, SecurityEventType and SecurityLevel information, he can check these information in active defenses in code.
+Following examples are from book:
+
+- check the number of times a user from a particular IP tried to log in and their password did not work. If this count is higher than 20, block that user from reaching the page for a time.
+
+- if particular user tried to reset 5 times in the same day, prevent that user from resetting for a while.
 
 
+See the example code below for this two use cases.
 
+```csharp
+private bool CanAccessPage()
+    {
+        var sourceIp = HttpContext.Connection.RemoteIpAddress.ToString();
 
+        //SqlQuery is smart enough to understand that interpolated string values should be treated as parameters, so this is safe from SQL injection attacks
+        var failedUsernameCount = _dbContext.Database.SqlQuery<int>($"SELECT COUNT(1) AS Value FROM SecurityEvent WHERE DateCreated > {DateTime.UtcNow.AddDays(-1)} AND RequestIP = {sourceIp} AND EventID = {Logging.SecurityEvent.Authentication.USER_NOT_FOUND.EventId}").Single();
 
-When I watched this video, I remembered my recently
+        var failedPasswordCount = _dbContext.Database.SqlQuery<int>($"SELECT COUNT(1) AS Value FROM SecurityEvent WHERE DateCreated > {DateTime.UtcNow.AddDays(-1)} AND RequestIP = {sourceIp} AND EventID = {Logging.SecurityEvent.Authentication.PASSWORD_MISMATCH.EventId}").Single();
+
+        if (failedUsernameCount >= 5 || failedPasswordCount >= 20)
+            return false;
+        else
+            return true;
+    }
+```  
+Current example code does not have this functionality but IP based restrictions without user information could also be added to these active defenses.
+Such defenses would have prevented this described e-nabız attack in the back end  even with problematic frontend code.
+
 
 
 
