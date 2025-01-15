@@ -45,8 +45,7 @@ For example, in the logging and compliance part, he talks about logging who acce
 
 Then he talks about .NET logging but rightly assert that it is developer focused not security focused.
 
-He proposes logging a lot of information.
-These include following, see the book or [the code](https://github.com/Apress/Advanced-ASP.NET-Core-8-Security-2nd-ed) for complete list.
+He proposes logging a lot of information, see the book or [the code](https://github.com/Apress/Advanced-ASP.NET-Core-8-Security-2nd-ed) for complete list. These include following:
 
 - Event ID
 - Logged-In User ID 
