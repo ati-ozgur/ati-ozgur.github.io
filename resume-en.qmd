@@ -9,7 +9,7 @@
 {{< include resume/short-summary-en.md >}}
 
 
-## Education
+# Education
 
 
 | University                       | Department             | Degree   | Start | End  |
@@ -20,7 +20,7 @@
 | Başkent University               | Electrical Engineering | PHD      | 2007  | 2017 |
 
 
-## Employment History
+# Employment History
 
 | Title             | Company     | Start   | End |
 |-------------------|-------------|---------|-----|
@@ -42,7 +42,7 @@
 
 
 
-## Peer Reviewed Articles (SCI-E)
+# Peer Reviewed Articles (SCI-E)
 
 {{< include resume/article-list.md >}}
 
@@ -53,11 +53,11 @@
 
 - See others in my [google scholar](https://scholar.google.com.tr/citations?user=Q9ll-kcAAAAJ&hl=en) and [Research Gate](https://www.researchgate.net/profile/Atilla_Oezguer) profiles.
 
-## Certifications - Exams (See Long Version for Complete History)
+# Certifications - Exams (See Long Version for Complete History)
 
 {{< include resume/certificates.md >}}
 
-## Courses I Taught in Universities:
+# Courses I Taught in Universities:
 
 {{< include resume/courses-taught-en.md >}}
 
@@ -65,17 +65,17 @@
 * Data Structures (Baskent University, in Turkish, 2 semestres: 2013 and 2014)
 * Note: I have taught numerous courses when I was working as an IT Trainer and Senior Developer, mostly general programming, web programming, software management and database courses. 
 
-## Online Presence
+# Online Presence
 1. [google scholar (h-index:9)](https://scholar.google.com.tr/citations?user=Q9ll-kcAAAAJ&hl=en)
 2. [researchgate](https://www.researchgate.net/profile/Atilla_Oezguer)
 3. [github](https://github.com/ati-ozgur)
 4. [stack exchange](http://stackexchange.com/users/18290/atilla-ozgur?tab=reputation)
 5. [linkedin](http://www.linkedin.com/in/atiozgur)
 
-## References
+# References
 Available upon request.
 
-## Languages
+# Languages
 
 - Turkish (Native)
 - English (C2)
