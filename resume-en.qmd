@@ -55,14 +55,7 @@
 
 ## Certifications - Exams (See Long Version for Complete History)
 
-* [OCA - Oracle Database 11g Administrator Certified Associate](certificates/Oracle-Database-11g-Administrator-Certified-Associate.pdf) , 2010
-* Microsoft Certified Professional  Developer  , Asp.Net Developer 3.5
-* Microsoft Certified IT Professional  Database Developer , 2008, (Early Achiever, Beta Exam)
-* Microsoft Certified Trainer (MCT) , Microsoft, 2005
-* Microsoft Certified Solution Developer (MCSD) for Microsoft .NET , Microsoft, 2005
-* MCAD (Microsoft Certified (Web) Application Developer), Microsoft, 2004
-* KPDS 91/100 (2010 Spring) (Turkish Nation-wide English Language Exam)
-* GRE Quantitative (2008) (800/800) Verbal (450/800)
+{{< include resume/certificates.md >}}
 
 ## Courses I Taught in Universities:
 
