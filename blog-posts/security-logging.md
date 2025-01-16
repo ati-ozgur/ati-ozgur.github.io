@@ -11,7 +11,10 @@ Video description is below:
 
 >An illegal market built on stolen data...
 
-HSYS, a system from Health Ministry, stores a lot of confidential information about Turkish Citizens and those who use Turkish hospitals.
+First of all, video description talks about e-nabız but the video shows HSYS. These two are different systems.
+
+HSYS or e-nabız, systems from Health Ministry, store a lot of confidential information about Turkish Citizens and those who use Turkish hospitals. 
+
 
 The simple security vulnerability is described in 22:50 of 25 minutes of video.
 [See here](https://youtu.be/5BzGetrwpoU?t=1370).
