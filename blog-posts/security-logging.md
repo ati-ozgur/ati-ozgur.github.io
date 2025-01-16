@@ -7,11 +7,11 @@ Video description is below:
 >What could be worse than the state's most confidential data falling into the hands of 15-year-old teenagers? 
 >That data falling into the hands of bad brothers.
 
->A very simple security vulnerability discovered in e-nabız in the summer of 2022 caused the data of 101 million people to be spilled, igniting an unstoppable chaos.
+>A very simple security vulnerability discovered in HSYS in the summer of 2022 caused the data of 101 million people to be spilled, igniting an unstoppable chaos.
 
 >An illegal market built on stolen data...
 
-e-nabız, a system from Health Ministry, stores a lot of confidential information about Turkish Citizens and those who use Turkish hospitals.
+HSYS, a system from Health Ministry, stores a lot of confidential information about Turkish Citizens and those who use Turkish hospitals.
 
 The simple security vulnerability is described in 22:50 of 25 minutes of video.
 [See here](https://youtu.be/5BzGetrwpoU?t=1370).
@@ -130,7 +130,7 @@ private bool CanAccessPage()
     }
 ```  
 Current example code does not have this functionality but IP based restrictions without user information could also be added to these active defenses.
-Such defenses would have prevented this described e-nabız attack in the back-end  even with problematic front-end code.
+Such defenses would have prevented this described  attack in the back-end  even with problematic front-end code.
 
 
 
