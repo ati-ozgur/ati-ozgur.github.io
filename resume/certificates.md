@@ -6,4 +6,4 @@
 * [MCAD (Microsoft Certified (Web) Application Developer), Microsoft, 2004](certificates/professional/mcad-microsoft.net.pdf)
 * KPDS 91/100 (2010 Spring) (Turkish Nation-wide English Language Exam)
 * GRE Quantitative (2008) (800/800) Verbal (450/800)
-* [see Microsoft Transcript for other certificates](MS_Learning_Transcript.pdf)
+* [see Microsoft Transcript for other certificates](certificates/professional/MS_Learning_Transcript.pdf)
