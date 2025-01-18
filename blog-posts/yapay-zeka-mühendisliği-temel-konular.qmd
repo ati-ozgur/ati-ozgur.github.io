@@ -1,0 +1,17 @@
+# Yapay Zeka Mühendisliği Temel Konular ve Dersler
+
+- Yapay Zeka
+- Makine Öğrenmesi
+- Veri Bilimi
+
+
+## Temel Konular 
+| Course Topics                        | Ders Konuları                        |
+|--------------------------------------|--------------------------------------|
+| Mathematics/Engineering core courses | Matematik/Mühendislik temel dersleri |
+| ~~Electrical Engineering Fundamentals~~  | ~~Elektrik Mühendisliği Temelleri~~      |
+| Computer Science Fundamentals        | Bilgisayar Bilimi Temelleri          |
+| ~~Software Engineering Fundamentals~~    | ~~Yazılım Mühendisliği Temelleri~~       |
+| Artificial Intelligence Courses      | Yapay Zeka Dersleri                  |
+| Specialized Topics/Electives         | Uzmanlık Konuları/Seçmeli Dersler    |
+
