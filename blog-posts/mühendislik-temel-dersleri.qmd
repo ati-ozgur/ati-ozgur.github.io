@@ -1,0 +1,19 @@
+# Mühendislik temel dersleri
+
+3 yapay zeka aracının cevapları
+
+- [Mühendislik temel dersleri nedir? Gemini cevap](https://g.co/gemini/share/8d46e9df9b98)
+
+- [Mühendislik temel dersleri nedir? Chatgpt cevap](https://chatgpt.com/share/678b76cb-e800-8004-a86f-deb67e670bbc)
+
+- [Mühendislik temel dersleri nedir? Perplexity cevap](https://www.perplexity.ai/search/what-are-the-common-courses-in-1ZmZAwDGReeI1jkeiycJiA)
+
+Ben kendime göre aşağıdaki tabloyu oluşturdum.
+[İlgili youtube  Mühendislik temel dersleri vidyosu](https://www.youtube.com/watch?v=nousCN53xzs).
+
+
+
+{{< include ./table-engineering-core-courses.md >}}
+
+
+

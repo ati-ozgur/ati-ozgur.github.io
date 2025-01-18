@@ -1,11 +1,16 @@
 # Blog posts by Atilla Özgür
 
 
-## 2025-01
+## 2025-01 English
 
 - [panel and security logging](blog-posts/security-logging.md)
 - [Dotnet books](blog-posts/dotnet-books.md)
 - [Security problem of time to process logins in Asp.net](blog-posts/time-to-process-logins-asp-net-8.md)
+
+## 2025-01 Türkçe
+- [Mühendislik temel dersleri](blog-posts/mühendislik-temel-dersleri.qmd)
+
+
 
 ## 2024-10
 
