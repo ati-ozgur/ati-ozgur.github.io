@@ -1,5 +1,3 @@
-# Bilgisayar Mühendisliği Temel Konular
-
 | Course Topics                        | Ders Konuları                        |
 |--------------------------------------|--------------------------------------|
 | Mathematics/Engineering core courses | Matematik/Mühendislik temel dersleri |

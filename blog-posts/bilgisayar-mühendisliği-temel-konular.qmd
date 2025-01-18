@@ -1,0 +1,22 @@
+# Bilgisayar Mühendisliği Temel Konular
+
+
+
+{{< include ./table-computer-engineering-core-courses.md >}}
+
+
+## 3 yapay zeka aracının cevapları
+
+- [Bilgisayar mühendisliği temel dersler nedir? Gemini cevap](https://g.co/gemini/share/8dc88eae0727)
+
+- [Bilgisayar mühendisliği temel dersler nedir? Chatgpt cevap](https://chatgpt.com/share/678b9a47-6ee4-8004-92f8-96d0275484ab)
+
+- [Bilgisayar mühendisliği temel dersler nedir? Perplexity cevap](https://www.perplexity.ai/search/what-are-the-core-courses-for-3DoBq_0GRjeO9QyclJpWsg)
+
+
+
+
+
+
+Ben kendime göre yukarıdaki tabloyu oluşturdum.
+[İlgili youtube  Bilgisayar mühendisliği temel dersler vidyosu](https://www.youtube.com/watch?v=nousCN53xzs).
