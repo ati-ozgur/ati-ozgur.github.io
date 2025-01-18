@@ -12,7 +12,7 @@
 - [Bilgisayar bilimi temel dersler](blog-posts/bilgisayar-bilimi-temel-dersler.qmd)
 - [Bilgisayar Mühendisliği Temel Konular](blog-posts/bilgisayar-mühendisliği-temel-konular.qmd)
 - [Yazılım Mühendisliği Temel Konular](blog-posts/yazılım-mühendisliği-temel-konular.qmd)
-
+- [Yapay Zeka Mühendisliği Temel Konular ve Dersler](blog-posts/yapay-zeka-mühendisliği-temel-konular.qmd)
 
 
 ## 2024-10
