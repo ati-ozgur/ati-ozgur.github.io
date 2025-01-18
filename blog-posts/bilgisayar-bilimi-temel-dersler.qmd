@@ -1,0 +1,19 @@
+# Bilgisayar bilimi temel dersler
+
+{{< include ./table-computer-science-core-courses.md >}}
+
+
+3 yapay zeka aracının cevapları
+
+- [Bilgisayar bilimi temel dersler nedir? Gemini cevap](https://g.co/gemini/share/101365f562ab)
+
+- [Bilgisayar bilimi temel dersler nedir? Chatgpt cevap](https://chatgpt.com/share/678b88ef-2524-8004-b31d-6524afb2a21f)
+
+- [Bilgisayar bilimi temel dersler nedir? Perplexity cevap](https://www.perplexity.ai/search/what-are-the-core-courses-for-MdOYMnoUQsOD2g7f2gz9Uw)
+
+Ben kendime göre aşağıdaki tabloyu oluşturdum.
+[İlgili youtube  Bilgisayar bilimi temel dersler vidyosu](https://www.youtube.com/watch?v=nousCN53xzs).
+
+
+
+

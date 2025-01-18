@@ -9,7 +9,7 @@
 
 ## 2025-01 Türkçe
 - [Mühendislik temel dersleri](blog-posts/mühendislik-temel-dersleri.qmd)
-
+- [Bilgisayar bilimi temel dersler](blog-posts/bilgisayar-bilimi-temel-dersler.qmd)
 
 
 ## 2024-10
