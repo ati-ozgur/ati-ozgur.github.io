@@ -1,6 +1,6 @@
 | Course Name                                   | Ders Adı                                         | Note/Not                       |
 |-----------------------------------------------|--------------------------------------------------|--------------------------------|
-| Programming (I,II)                            | Programlama                                      | Temel                          |
+| Programming (I,II)                            | Programlama  (I,II)       			 	    | Temel                          |
 | Data Structures                               | Veri Yapıları                                    | Temel                          |
 | Algorithms                                    | Algoritmalar                                     | Temel                          |
 | Object-Oriented Programming                   | Nesneye Yönelik Programlama                      | Temel                          |

@@ -3,7 +3,7 @@
 {{< include ./table-computer-science-core-courses.md >}}
 
 
-3 yapay zeka aracının cevapları
+## 3 yapay zeka aracının cevapları
 
 - [Bilgisayar bilimi temel dersler nedir? Gemini cevap](https://g.co/gemini/share/101365f562ab)
 
