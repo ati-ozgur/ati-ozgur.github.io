@@ -1,0 +1,23 @@
+# Yazılım Mühendisliği Temel Konular ve Dersler
+
+
+## Temel Konular 
+{{< include ./table-software-engineering-core-topics.md >}}
+
+## Temel Dersler
+
+{{< include ./table-software-engineering-core-courses.md >}}
+
+
+## 3 yapay zeka aracının cevapları
+
+- [Yazılım mühendisliği temel dersler nedir? Gemini cevap](https://g.co/gemini/share/e3fe7302f3bd)
+
+- [Yazılım mühendisliği temel dersler nedir? Chatgpt cevap](https://chatgpt.com/share/678ba121-599c-8004-bc55-595205509a12)
+
+- [Yazılım mühendisliği temel dersler nedir? Perplexity cevap](https://www.perplexity.ai/search/what-are-the-core-courses-for-ANeu4VlOT5mQCWyDP6mqUQ)
+
+
+
+Ben kendime göre yukarıdaki tabloları oluşturdum.
+[İlgili youtube  Yazılım mühendisliği temel dersler vidyosu](https://www.youtube.com/watch?v=nousCN53xzs).
