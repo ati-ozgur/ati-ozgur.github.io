@@ -3,3 +3,4 @@
 3. Atilla Özgür, Hamit Erdem. “Feature selection and multiple classifier fusion using genetic algorithms in intrusion detection systems” in Journal of the Faculty of Engineering and Architecture of Gazi University,  2018.
 4. Atilla Özgür, Hamit Erdem, Fatih Nar.  “Sparsity-driven weighted ensemble classifier” in International Journal of Computational Intelligence Systems, 2018
 5. Atilla Özgür,Yılmaz Uygun,Marc-Thorsten Hütt “A review of planning and scheduling methods for hot rolling mills in steel production”, Computers & Industrial Engineering, 2021
+6. Şahin Burak Dalkılıç, Atilla Özgür, Hamit Erdem "Balancing exploration and exploitation in genetic algorithm optimization: a novel selection operator" Evolutionary Intelligence, 2025
