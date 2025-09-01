@@ -27,7 +27,7 @@ title: "Atilla Özgür (Phd) Web Page"
 ## Courses in Turkish  
 
 - [Programlama Temeller](kurs-programlama-temeller)
-
+- [Büyük Dil Modelleri](course-nn-deep-learning)
 
 
 
