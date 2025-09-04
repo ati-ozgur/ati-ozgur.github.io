@@ -58,21 +58,12 @@
 
 ## Üniversitelerde verdiğim dersler:
 
-* [Programming in Python](https://github.com/ati-ozgur/course-python) (Jacobs University, in English, 5 semestres: 2019-2023
-* [Web Programming](https://github.com/ati-ozgur/course-web-programming) (Ankara Yıldırım Beyazıd University, in English 1 semestres: 2022)
-* [Programming Languages](https://github.com/ati-ozgur/course-programming-languages) (Ankara Yıldırım Beyazıd University, in English 1 semestres: 2022)
-* [Data Mining](https://github.com/ati-ozgur/course-data-mining) (Ankara Yıldırım Beyazıd University, in English 1 semestres: 2021)
-* [Programming in R](https://github.com/ati-ozgur/course-r-programming) (Jacobs University, in English, 3 semestres: 2019-2021
-* [Deep Learning and Neural Networks](https://github.com/ati-ozgur/course-nn-deep-learning) (Applied University Bremen, in English, 2 semestres:2019 and 2020)
-* Data Structures (Baskent University, in Turkish, 2 semestres: 2013 and 2014)
-* Note: I have taught numerous courses when I was working as an IT Trainer and Senior Developer, mostly general programming, web programming, software management and database courses. 
+{{< include resume/courses-taught-en.md >}}
 
 ## Çevrim içi 
-1. [google scholar](https://scholar.google.com.tr/citations?user=Q9ll-kcAAAAJ&hl=en)
-2. [researchgate](https://www.researchgate.net/profile/Atilla_Oezguer)
-3. [github](https://github.com/ati-ozgur)
-4. [stack exchange](http://stackexchange.com/users/18290/atilla-ozgur?tab=reputation)
-5. [linkedin](http://www.linkedin.com/in/atiozgur)
+
+{{< include resume/online-presence.md >}}
+
 
 ## Referanslar
 
