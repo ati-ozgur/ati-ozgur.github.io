@@ -3,3 +3,5 @@
 _site*
 _site_lib*
 rendered*
+
+**/*.quarto_ipynb
