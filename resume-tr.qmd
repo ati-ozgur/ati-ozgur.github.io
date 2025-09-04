@@ -58,7 +58,7 @@
 
 ## Üniversitelerde verdiğim dersler:
 
-{{< include resume/courses-taught-en.md >}}
+{{< include resume/courses-taught-tr.md >}}
 
 ## Çevrim içi 
 
