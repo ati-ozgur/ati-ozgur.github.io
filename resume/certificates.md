@@ -16,4 +16,5 @@
 ### Languages
 
 * eYDS 95/100 (2025-08) (Turkish Nation-wide English Language Exam)
+* Telc B1 German (Deutsch) Certificate
 * GRE Quantitative (2008) (800/800) Verbal (450/800)
