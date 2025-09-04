@@ -7,3 +7,5 @@
 - [Programming Languages](https://github.com/ati-ozgur/course-programming-languages) (Ankara Yıldırım Beyazıd University, in English 1 semestres: 2022)
 - [Web Programming](https://github.com/ati-ozgur/course-web-programming) (Ankara Yıldırım Beyazıd University, in English 1 semestres: 2022)
  
+* Data Structures (Baskent University, in Turkish, 2 semestres: 2013 and 2014)
+* Note: I have taught numerous courses when I was working as an IT Trainer and Senior Developer, mostly general programming, web programming, software management and database courses. 

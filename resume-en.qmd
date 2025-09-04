@@ -62,8 +62,6 @@
 {{< include resume/courses-taught-en.md >}}
 
 
-* Data Structures (Baskent University, in Turkish, 2 semestres: 2013 and 2014)
-* Note: I have taught numerous courses when I was working as an IT Trainer and Senior Developer, mostly general programming, web programming, software management and database courses. 
 
 # Online Presence
 1. [google scholar (h-index:9)](https://scholar.google.com.tr/citations?user=Q9ll-kcAAAAJ&hl=en)
