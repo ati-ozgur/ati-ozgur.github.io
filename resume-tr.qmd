@@ -55,6 +55,11 @@
 
 {{< include resume/certificates.md >}}
 
+## Yabancı Diller
+
+{{< include resume/languages-tr.md >}}
+
+
 
 ## Üniversitelerde verdiğim dersler:
 
@@ -70,11 +75,5 @@
 İstek üzerine verilebilir.
 
 
-## Yabancı diller
-
-- Türkçe (Anadil)
-- İngilizce (C2)
-- Almanca (B1, Telc certification)
-- Bulgarca (A1)
 
 [Özgeçmişin uzun versiyonu](https://docs.google.com/document/d/1sJCHMVFrh0yWYBo6lHNOUm1UgHN2dsGzuYlK8a2rhK8/edit?usp=drive_link)

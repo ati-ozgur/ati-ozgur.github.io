@@ -57,6 +57,12 @@
 
 {{< include resume/certificates.md >}}
 
+## Languages
+
+{{< include resume/languages-en.md >}}
+
+
+
 # Courses I Taught in Universities:
 
 {{< include resume/courses-taught-en.md >}}
@@ -72,12 +78,7 @@
 # References
 Available upon request.
 
-# Languages
 
-- Turkish (Native)
-- English (C2)
-- German (B1, Telc certification)
-- Bulgarian (A1)
 
 [Long Version of My Resume](https://docs.google.com/document/d/1sJCHMVFrh0yWYBo6lHNOUm1UgHN2dsGzuYlK8a2rhK8/edit?usp=drive_link)
 

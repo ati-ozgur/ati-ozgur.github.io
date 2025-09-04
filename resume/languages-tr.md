@@ -1,0 +1,6 @@
+- Türkçe (Anadil)
+- İngilizce (C2)
+	* eYDS 95/100 (2025-08) 
+	* GRE Sayısal (2008) (800/800) Sözel (450/800)
+- Almanca (B1, Telc certification), Telc B1 Almanca (Deutsch) 
+- Bulgarca (A1)
