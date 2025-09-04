@@ -1,0 +1,5 @@
+1. [google scholar (h-index:9)](https://scholar.google.com.tr/citations?user=Q9ll-kcAAAAJ&hl=en)
+2. [researchgate](https://www.researchgate.net/profile/Atilla_Oezguer)
+3. [github](https://github.com/ati-ozgur)
+4. [stack exchange](http://stackexchange.com/users/18290/atilla-ozgur?tab=reputation)
+5. [linkedin](http://www.linkedin.com/in/atiozgur)
