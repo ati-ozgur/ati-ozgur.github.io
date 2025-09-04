@@ -15,5 +15,5 @@
 
 ### Languages
 
-* KPDS 91/100 (2010 Spring) (Turkish Nation-wide English Language Exam)
+* eYDS 95/100 (2025-08) (Turkish Nation-wide English Language Exam)
 * GRE Quantitative (2008) (800/800) Verbal (450/800)
