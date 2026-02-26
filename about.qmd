@@ -2,4 +2,4 @@
 title: "About"
 ---
 
-- [Atilla Özgür Resume](resume-en.qmd)
+- [Atilla Özgür Resume](resume-Atilla-Ozgur-en.qmd)
