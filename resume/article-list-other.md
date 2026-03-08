@@ -1,0 +1,2 @@
+1. Atilla Özgür, Hamit Erdem  Saldırı Tespit Sistemlerinde Kullanılan Kolay Erişilen Makine Öğrenme Algoritmalarının Karşılaştırılması Bilişim Teknolojileri Dergisi, 41-48, 2012
+2. Fatih Nar, Osman Erman Okman, Atilla Özgür, M Çetin, “RmSAT-CFAR: Fast and accurate target detection in radar images” in SoftwareX, 2017
