@@ -15,5 +15,5 @@
 | Software Project Manager  | Turksat | 07/2008 | 06/2009 |
 | Software Project Manager  | Simetri | 09/2006 | 04/2008 |
 | Software Trainer  | Netsoft | 10/2005 | 12/2006 |
-| Software Developer  | Kale Yazılım | 10/2004 | 10/2005 |
+| Software Developer  | Kale Software | 10/2004 | 10/2005 |
 | Software Developer  | Veripark | 06/2003 | 10/2004 |
