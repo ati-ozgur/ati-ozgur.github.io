@@ -52,34 +52,34 @@
 {{< include resume/article-list-other.md >}}
 
 
-- See others in my [google scholar](https://scholar.google.com.tr/citations?user=Q9ll-kcAAAAJ&hl=en) and [Research Gate](https://www.researchgate.net/profile/Atilla_Oezguer) profiles.
+- Siehe andere in meinem [google scholar](https://scholar.google.com.tr/citations?user=Q9ll-kcAAAAJ&hl=en) und [Research Gate](https://www.researchgate.net/profile/Atilla_Oezguer) profile.
 
-# Certifications - Exams (See Long Version for Complete History)
+# Zertifizierungen - Prüfungen (Die vollständige Historie finden Sie in der Langfassung)
 
 {{< include resume/certificates.md >}}
 
-## Languages
+## Sprachen
 
-{{< include resume/languages-en.md >}}
-
-
-
-# Courses I Taught in Universities:
-
-{{< include resume/courses-taught-en.md >}}
+{{< include resume/languages-de.md >}}
 
 
 
-# Online Presence
+# Kurse, die ich an Universitäten unterrichtet habe:
+
+{{< include resume/courses-taught-de.md >}}
+
+
+
+# Online-Präsenz
 
 {{< include resume/online-presence.md >}}
 
 
 
-# References
-Available upon request.
+# Referenzen
+Auf Anfrage erhältlich.
 
 
 
-[Long Version of My Resume](https://docs.google.com/document/d/1sJCHMVFrh0yWYBo6lHNOUm1UgHN2dsGzuYlK8a2rhK8/edit?usp=drive_link)
+[Langfassung meines Lebenslaufs English](https://docs.google.com/document/d/1sJCHMVFrh0yWYBo6lHNOUm1UgHN2dsGzuYlK8a2rhK8/edit?usp=drive_link)
 
