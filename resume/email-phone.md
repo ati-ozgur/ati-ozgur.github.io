@@ -1,0 +1,3 @@
+- Mönchengladbach Germany/Ankara Türkiye
+- +49 0162 5638824 / +90 0533 2515557
+- ati.ozgur@gmail.com / aoezguer@constructor.university
