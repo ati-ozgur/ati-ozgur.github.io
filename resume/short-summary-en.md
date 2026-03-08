@@ -7,4 +7,4 @@ I am certified in Oracle (OCA 11g) and SQL Server (2000-2008) Databases. I have 
 I hold a PHD degree in Electrical Engineering. 
 My thesis was about machine learning, optimization and intrusion detection systems. 
 I have worked for 6 years as a scientific developer focused on machine learning and optimization for steel production systems.
-I currently work as a postdoc for a project which aims to make it easier to handle contract management using large language models.
+In my last position, I worked as a postdoc for a project which aims to make it easier to handle contract management using large language models.

@@ -11,4 +11,4 @@ Doktora+Doktora sonrası çalışmalarım nedeniyle 16 yılı aşkın süredir m
 Elektrik Mühendisliği alanında doktora derecesine sahibim. 
 Tezim makine öğrenimi, optimizasyon ve saldırı tespit sistemleri üzerineydi. 
 Doktora sonrasında 6 sene çelik üretim sistemleri için makine öğrenimi ve optimizasyonuna odaklanan bilimsel bir yazılım geliştirici olarak çalıştım.
-Şu an büyük dil modelleri kullanılarak firmaların şartname cevaplarını daha hızlı vermesine yardımcı olacak bir projede çalışıyorum.
+En son işimde büyük dil modelleri kullanılarak firmaların şartname cevaplarını daha hızlı vermesine yardımcı olacak bir projede çalıştım.
