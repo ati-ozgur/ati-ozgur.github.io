@@ -8,6 +8,7 @@ title: "Atilla Özgür (Phd) Web Page"
 ## Resume
 
 - [Resume English](resume-Atilla-Ozgur-en.qmd)
+- [Lebenslauf Deutsch](resume-Atilla-Ozgur-de.qmd)
 - [Özgeçmiş Türkçe](resume-Atilla-Ozgur-tr.qmd)
 
 ## Writings
