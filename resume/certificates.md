@@ -1,6 +1,7 @@
 ## CMMI
 
-- Certified Practitioner CMMI 
+- [Certified Practitioner CMMI](certificates/professional/certified-practitioner-CMMI.pdf), 2026
+
 
 ## Oracle
 
