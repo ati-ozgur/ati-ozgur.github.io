@@ -3,7 +3,8 @@
 
 | Ünvan             | Kurum     | Başlangıç   | Bitiş |
 |-------------------|-------------|---------|-----|
-| Baş Yazılım Mimarı  | PiA Team | 12/2025 | -- |
+| Doktor Öğretim Üyesi | Kara Harp Okulu Milli Savunma Üniversitesi - Bilgisayar Mühendisliği | 07/2026| - |
+| Baş Yazılım Mimarı  | PiA Team | 12/2025 | 07/2026 |
 | Doktora Sonrası Araştırmacı  | Constructor Üniversitesi Bremen - Mathematics and Logistics| 04/2024 | 03/2026 |
 | Kıdemli Yazılım Geliştirici  | SMS Digital | 02-2022 | 03-2024 |
 | Doktor Öğretim Üyesi | Ankara Yıldırım Beyazıd Üniversitesi - Bilgisayar Mühendisliği | 06/2021| 02/2022 |
