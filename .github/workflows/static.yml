@@ -43,7 +43,7 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           # Upload rendered directory
-          path: 'rendered'
+          path: ' _book'
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
