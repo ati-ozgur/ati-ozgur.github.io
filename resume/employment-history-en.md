@@ -2,7 +2,7 @@
 
 | Title             | Company     | Start   | End |
 |-------------------|-------------|---------|-----|
-| Assistant Prof  | Military Academy Türkiye | 07/2026 | now |
+| Assistant Professor   | Military Academy Türkiye Computer Engineering | 07/2026 | now |
 | Principal Software Architect  | People in Action | 03/2026 | 07/2026 |
 | Postdoctoral Researcher  | Constructor University Bremen - Mathematics and Logistics| 04/2024 | 03-2026 |
 | Adjunct Professor (Part time)   | Ankara Science University | 09-2024 | 02-2025 |
