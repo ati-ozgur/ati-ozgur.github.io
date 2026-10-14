@@ -1,17 +1,17 @@
 ---
-title: "Atilla Özgür (Phd) Web Page"
+title: "Atilla Özgür (Phd) Web Page/Sayfası"
 ---
 
 
 {{< include resume/short-summary-en.md >}}
 
-## Resume
+## Resume/Özgeçmişler
 
 - [Resume English](resume-Atilla-Ozgur-en.qmd)
 - [Lebenslauf Deutsch](resume-Atilla-Ozgur-de.qmd)
 - [Özgeçmiş Türkçe](resume-Atilla-Ozgur-tr.qmd)
 
-## Writings
+## Writings/Yazılar
 
 - [My translated to Turkish Planning book](https://ati-ozgur.github.io/planlama-kucuk-mavi-kitap/)
 
@@ -20,25 +20,29 @@ title: "Atilla Özgür (Phd) Web Page"
 - [Blog Posts](blog-posts.qmd)
 
 
-## Courses English
+## Courses in English/Kurslar İngilizce
 
 {{< include resume/courses-taught-en.md >}}
 
 
-## Courses in Turkish  
+## Courses in Turkish/Kurslar Türkçe
 
+
+- [Hesaplama Kuramı & Otomata](https://ati-ozgur.github.io/kurs-otomata/)
+- [Kriptografi Giriş](https://ati-ozgur.github.io/kurs-kripto/)
+- [Genetik Algoritmalar](https://github.com/ati-ozgur/course-genetic-algorithm)
 - [Programlama Temeller](kurs-programlama-temeller)
 - [Büyük Dil Modelleri](course-nn-deep-learning)
 
 
 
 
-## Others
+## Others/Diğer
 
 - [Online Courses Finished](resume/online-courses-finished.md)
 
 
-## Not
+## Note
 
 Bu web sitesi quarto kullanarak yapılmıştır.
 Daha fazla öğrenmek için [quarto web siteleri](https://quarto.org/docs/websites).
